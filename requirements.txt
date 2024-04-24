@@ -1,0 +1,6 @@
+transformers
+torch
+scipy
+soundfile
+PyPDF2
+pydub
